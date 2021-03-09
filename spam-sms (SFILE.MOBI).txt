@@ -1,0 +1,11 @@
+Penginstallan :
+
+$ apt update && apt upgrade
+$ pkg install python2 git
+$ git clone https://github.com/B4N954N2-ID/spam-sms
+$ cd spam-sms
+$ pip2 install -r requirements.txt
+$ python2 sms.py
+
+Jangan lupa subscribe channel youtube TUTORIAL ANDROID
+Thanks ^_^
